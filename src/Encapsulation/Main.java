@@ -17,7 +17,6 @@ public class Main {
 class Pupil {
     private int age;
 
-    //complete setter method
     public void  setAge(int a){
         if(a>6){
             age=a;
